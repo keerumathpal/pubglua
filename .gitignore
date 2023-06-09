@@ -14,7 +14,7 @@ luac.out
 *.elf
 
 # Precompiled Headers
-*.gch
+*.gpe
 *.pch
 
 # Libraries
@@ -23,9 +23,9 @@ luac.out
 *.la
 *.lo
 *.def
-*.exp
+*.expop
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (inc. iOS DLLs)
 *.dll
 *.so
 *.so.*
